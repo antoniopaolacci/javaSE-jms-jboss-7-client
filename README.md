@@ -8,5 +8,6 @@
 	<li>Add a new user via <i>jboss-as-7.1.1.Final/bin/add-user.bat</i></li>
     <li>Configure jboss to start with standalone-full.xml configuration file</li>
     <li>Configure jms resources: <i>jms-connection-factories</i> and <i>jms-destinations</i></li>
-    <li>Add <i><security-enabled>false</security-enabled></i> to disable authentication on <i><hornetq-server></i></li>
+    <li>Add `<security-enabled>false</security-enabled>` to disable authentication on `<hornetq-server>`</li>
 </ol>
+
