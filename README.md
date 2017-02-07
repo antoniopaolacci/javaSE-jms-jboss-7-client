@@ -1,6 +1,6 @@
-<h1> javaSE-jms-jboss-7-client </h1>
+<h1>javaSE-jms-jboss-7-client</h1>
 
-<p>A standalone jms client executes remote lookup jms resources on localhost and send some messages. </p> 
+<p>A standalone jms client executes remote lookup JMS resources on localhost and send some messages.</p> 
 
 <h2>To-Do list configuration jboss-7.1.1.Final:</h2>
 
@@ -11,3 +11,4 @@
     <li>Add `<security-enabled>false</security-enabled>` to disable authentication on `<hornetq-server>`</li>
 </ol>
 
+<p>A standalone jms client executes remote lookup jms resources on localhost and send some messages. </p> 
