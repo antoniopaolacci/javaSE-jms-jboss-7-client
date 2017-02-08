@@ -1,13 +1,12 @@
-<h1>javaSE-jms-jboss-7-client</h1>
+#javaSE-jms-jboss-7-client
 
-<p>A standalone jms client executes remote lookup jms resources on localhost and send some messages. </p> 
+A standalone jms client executes remote lookup jms resources on localhost and send some messages. 
 
-<h2>To-Do list configuration jboss-7.1.1.Final:</h2>
+## To-Do list jboss-7.1.1.Final:
 
-<ol>
-	<li>Add a new user via <i>jboss-as-7.1.1.Final/bin/add-user.bat</i></li>
-    <li>Configure jboss to start with standalone-full.xml configuration file</li>
-    <li>Configure jms resources: <i>jms-connection-factories</i> and <i>jms-destinations</i></li>
-    <li>Add false to `security-enabled` to disable authentication on `hornetq-server` jms system</li>
-</ol>
+* Add a new user via <i>jboss-as-7.1.1.Final/bin/add-user.bat</i>
+* Configure jboss to start with standalone-full.xml configuration file
+* Configure jms resources: <i>jms-connection-factories</i> and <i>jms-destinations</i>
+* Add false to <i>security-enabled</i> to disable authentication on <i>hornetq-server</i> jms system
+
 
