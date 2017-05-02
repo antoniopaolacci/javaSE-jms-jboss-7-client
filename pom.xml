@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>javaSE-jms-jboss-7-client</groupId> 			<!-- the company name -->
 	<artifactId>javaSE-jms-jboss-7-client</artifactId>		<!-- tag that defines the ID for the created artifact -->
-	<version>1.0</version>									<!-- versioning -->
-	<packaging>jar</packaging>								<!-- the maven artifact type -->
+	<version>1.0</version>						<!-- versioning -->
+	<packaging>jar</packaging>					<!-- the maven artifact type -->
 
 	 <build>
         <plugins>
