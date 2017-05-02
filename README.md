@@ -1,8 +1,8 @@
-#javaSE-jms-jboss-7-client
+## javaSE-jms-jboss-7-client
 
 A standalone jms client executes remote lookup jms resources on localhost and send some messages. 
 
-## To-Do list jboss-7.1.1.Final:
+## To-do list on jboss-7.1.1.Final server:
 
 * Add a new user via <i>jboss-as-7.1.1.Final/bin/add-user.bat</i>
 * Configure jboss to start with standalone-full.xml configuration file
